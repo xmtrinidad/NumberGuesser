@@ -1,0 +1,7 @@
+C:\Users\Xavier Trinidad\Desktop\Workshops\tour_of_c#\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\Xavier Trinidad\Desktop\Workshops\tour_of_c#\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\Xavier Trinidad\Desktop\Workshops\tour_of_c#\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\Xavier Trinidad\Desktop\Workshops\tour_of_c#\NumberGuesser\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache
+C:\Users\Xavier Trinidad\Desktop\Workshops\tour_of_c#\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Xavier Trinidad\Desktop\Workshops\tour_of_c#\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\Xavier Trinidad\Desktop\Workshops\tour_of_c#\NumberGuesser\obj\Debug\NumberGuesser.pdb
